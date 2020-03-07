@@ -1,8 +1,18 @@
 body{
-    font-family: 'Inter', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
-h1{
+#ContentBannerHome h1{
     text-align: center;
     font-size: 100px;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+#ContentBannerHome p{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+#ContentBannerHome{
+    color:white; 
+    position: absolute; 
+    margin-top: 200px;
 }
