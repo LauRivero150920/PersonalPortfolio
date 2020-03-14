@@ -16,3 +16,19 @@ body{
     position: absolute; 
     margin-top: 200px;
 }
+#aboutMeRow{
+    margin-top: 70px;
+}
+#skillsRow{
+    margin-top: 85px;
+}
+#servicesRow{
+    margin-top: 30px;
+}
+#servicesRow{
+    margin-top: 30px;
+}
+#Card{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
